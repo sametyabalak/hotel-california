@@ -20,7 +20,6 @@
         </v-col>
         <v-col
           cols="12"
-          xl="1"
           md="3"
           sm="6"
           class="white--text text-center mx-auto"
@@ -88,7 +87,7 @@
           </v-col>
           <v-col
             cols="12"
-            xl="1"
+
             md="3"
             sm="6"
             class="white--text text-center mx-auto"
