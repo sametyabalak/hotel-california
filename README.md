@@ -17,3 +17,4 @@ npm run serve
 ```
 npm run build
 
+You can see the project this website sametyabalak.me
